@@ -8,7 +8,7 @@ Le projet résulte d'un travail de groupe. L'objectif est de créer une interfac
 
 ## to do list :
 
-[ ] Recherche d'informations sur les drones
+# [checkbox:unchecked] Recherche d'informations sur les drones
 
 ## organisation :
 
