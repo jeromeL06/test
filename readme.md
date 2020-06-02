@@ -8,6 +8,8 @@ Le projet résulte d'un travail de groupe. L'objectif est de créer une interfac
 
 ## to do list :
 
+[ ]
+
 ## organisation :
 
 Répartition du travail entre les différents apprenants.
