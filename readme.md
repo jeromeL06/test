@@ -10,7 +10,7 @@
 
 ## organisation :
 
-  Répartition du travail entre les différents apprenants.
+	Répartition du travail entre les différents apprenants.
 
 ## code source :
 
